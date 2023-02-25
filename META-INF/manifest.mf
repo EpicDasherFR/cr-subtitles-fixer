@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+
+Name: crjojofixer.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GX+dkWWtSAPO5hoW6VXlvA==
+SHA1-Digest: WjcqnsUu5hKU2YQKv3TD5JWxjfI=
+SHA256-Digest: K8VRRmmSf88csh4mQakuIiGhiMHZ1R7FVQ37MW+1h3U=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lFhwJBJls7qJzadOC2210w==
+SHA1-Digest: f1lBzo5ViMEdLRJp9G1FhNQ0Y88=
+SHA256-Digest: kwoIVIv9pJnQW3SkwrOczIGy6Hfa11kMo6RDh+BeQ7s=
+
+Name: icons/border-48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7r/UpU27mdpQc/9FY5YN7A==
+SHA1-Digest: a3xdr7gMjGH6hjFRN6aZEphFxHM=
+SHA256-Digest: qySdr3cSZF+egL6q8jw3KAJmikbQqMA6gTG/A78gyv4=
+
+Name: icons/border-96.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hXdhP0W0tVjQktvbZByyFQ==
+SHA1-Digest: m34oE9VXLL3HYVPGRd4wVfJnqu4=
+SHA256-Digest: zrn0TSTV/3DntcqZczuhzVIMj2TXliGCpPJ5T/M/3XU=
+
